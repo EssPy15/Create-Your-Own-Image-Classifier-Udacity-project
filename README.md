@@ -1,0 +1,1 @@
+Code for project in Udacity's "AI Programming with Python" Nanodegree program. In this project, we first develop an image classifier using PyTorch pre-trained model 'Resnet50', then convert it into a command line application. 
